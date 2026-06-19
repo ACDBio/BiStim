@@ -91,8 +91,8 @@ Tested Conditions
 - Amplitudes   : 0.1 - 2 mA    
 - Frequencies  : 0.1 - 40 Hz (sine, square, triangle)    
 
-![Waveform at 10 Hz](docs/wv.png)
-![Device test](docs/rdy.png)
+![Waveform at 10 Hz](wv.png)
+![Device test](rdy.png)
 Acknowledgements    
 
 This stimulation module was developed iteratively with the assistance of large language models:    
