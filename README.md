@@ -6,10 +6,10 @@ Bipolar constant-current stimulation driver for tACS/tVNS experiments, built on 
 Hardware Architecture
 
 [NiMH 4.8V] -> [Shunt 10 Ohm] -> [Boost DCDC 30V] -> [DRV8871 H-bridge] -> [Load / Electrodes]    
-                    |    
-              [INA240, gain 20, Vref ~ 1.65V]  
-                    |    
-              [ESP32 ADC pin 33]    
+                        |    
+                  [INA240, gain 20, Vref ~ 1.65V]  
+                        |    
+                  [ESP32 ADC pin 33]    
 
 The current shunt sits in the positive supply line before the boost converter, not in the load path. This means:    
 - Shunt voltage is always positive regardless of stimulation polarity    
