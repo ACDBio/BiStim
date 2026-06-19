@@ -100,4 +100,4 @@ This stimulation module was developed iteratively with the assistance of large l
 - Gemini (Google) - initial draft of the closed-loop stimulation prototype, waveform generation scaffolding, integration with the existing ADS1263 acquisition pipeline    
 
 All code was reviewed, tested on hardware, and adjusted by the author. AI suggestions were used as design input, not as final implementation.    
-![DOI](https://zenodo.org/badge/1274789742.svg)](https://doi.org/10.5281/zenodo.20767740)
+![DOI](https://zenodo.org/badge/1274789742.svg)(https://doi.org/10.5281/zenodo.20767740)
