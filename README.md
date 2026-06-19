@@ -107,6 +107,5 @@ The project is under development and is not for self-experimentation.
 ## 📜 License
 
 This work is licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal** (CERN-OHL-S-2.0).
-See [LICENSE](LICENSE) for the full text.
 
 ![DOI](https://zenodo.org/badge/1274789742.svg)
